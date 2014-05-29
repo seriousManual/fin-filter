@@ -1,0 +1,1 @@
+# fin-filter [![Build Status](https://travis-ci.org/zaphod1984/fin-filter.png)](https://travis-ci.org/zaphod1984/fin-filter)
